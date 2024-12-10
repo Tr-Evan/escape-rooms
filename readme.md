@@ -2,6 +2,8 @@
 
 Exercice 5 : Escape Rooms
 
+Projet de Evan Troget
+
 L’objectif est de mettre en application les concepts d’injection de dépendance et d’inversion de contrôle avec Spring.
 
 - La classe `EscapeRoomsApplication` ne doit pas être modifiée du tout.
